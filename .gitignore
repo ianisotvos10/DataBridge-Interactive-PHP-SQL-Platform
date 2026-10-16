@@ -1,0 +1,6 @@
+# Web and IDE specific ignores
+.idea/
+.vscode/
+*.log
+.DS_Store
+# Daca pe viitor db.php va contine parole reale, el ar trebui ignorat si inlocuit cu un db.example.php
