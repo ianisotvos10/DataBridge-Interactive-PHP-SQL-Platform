@@ -18,4 +18,3 @@ Sistemul este împărțit clar în două straturi:
 *   **Rulare procedurală:** Utilizarea procedurilor stocate pentru a muta logica complexă în motorul bazei de date, crescând performanța.
 *   **Interfață user-friendly:** Design curat (CSS custom) pentru vizualizarea și manipularea eficientă a seturilor de date.
 
-*(Aici poți adăuga 1-2 propoziții despre domeniul bazei de date: ex. "Baza de date modelează un sistem de gestiune pentru o bibliotecă / magazin / spital etc.")*
